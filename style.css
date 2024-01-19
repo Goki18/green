@@ -1,0 +1,267 @@
+#head{
+    color: rgb(3, 105, 3);
+    font-size: 30px;
+    font: bold;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+}
+#navi{
+    color: black;
+    letter-spacing: 2px;
+    font-size: 18px;
+    padding-left: 20px;
+    margin-left: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+#nav{
+    position: sticky;
+    top: 0;
+    z-index: 1;
+    background-color: white;
+}
+#plan{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+}
+#brow{
+    color: black;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: oblique;
+    text-align: center;
+    border: 1px solid white;
+    margin-top: 120px;
+    margin-left: 20px;
+    margin-right: 20px;
+    background-color: white;
+    padding: 3px;
+    
+}
+#brow:hover {
+    transform: scale(1.10);
+    background-color: rgb(1, 63, 1);
+    color: white;
+    border: 1px solid rgb(1, 63, 1) ;
+}
+#bro{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner2_h3.jpg ) ;
+    height: 250px;
+    background-size: cover;
+}
+#br{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner1_h3.jpg);
+    height: 250px;
+    background-size: cover;
+}
+#bw{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner3_h3.jpg);
+    height: 250px;
+    background-size: cover;
+}
+.para{
+    text-align: center;
+    color: rgb(1, 63, 1) ;
+    font-size: 30px;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 5px;
+}
+.had{
+    text-align: center;
+    color: black;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+    
+}
+#had{
+    color: green;
+}
+#lef{
+    color: green;
+    font-size: 50px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+#leaf{
+
+    text-align: center;
+    font-style: italic;
+    transition: transform .2s;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#leaf:hover{
+    background: linear-gradient(to right,rgb(45, 100, 45),rgb(2, 83, 2),rgb(58, 119, 58));
+    color: white; 
+    transform: scale(1.10);
+}
+#con{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner4_h3.jpg);
+    height: 600px;
+    background-size: cover;
+    margin: 5px;
+    margin-left: 20px;
+    transition: transform .2s;  
+}
+#cont{
+    text-align: center;
+    margin-top: 300px;
+    margin-bottom: 300px;
+    padding: 10px;
+    margin-left: 100px;
+    margin-right: 100px;
+    border: 1px solid white;
+    background-color: white;
+    transition: transform .2s;
+}
+#con:hover{
+    transform: scale(1.10);
+}
+#cont:hover{
+    transform: scale(1.10);
+    border: 1px solid rgb(1, 63, 1);
+    background-color: rgb(1, 63, 1);
+    color: white;
+}
+#hou{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner5_h3.jpg);
+    height: 300px;
+    background-size: cover;
+    transition: transform .2s;  
+    margin: 5px; 
+    margin-left: 20px;
+
+}
+#hous{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid white;
+    background-color: white;
+    transition: transform .2s;
+}
+#hou:hover{
+    transform: scale(1.10);
+}
+#hous:hover{
+    transform: scale(1.10);
+    border: 1px solid rgb(1, 63, 1);
+    background-color: rgb(1, 63, 1);
+    color: white;
+}
+#ho{
+    font-style: italic;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    color: green;
+}
+#of{
+    background-image: url(https://demo2.wpopal.com/thegreen/wp-content/uploads/2019/04/banner6_h3.jpg);
+    height: 300px;
+    background-size: cover;
+    transition: transform .2s; 
+    margin: 5px; 
+    margin-left: 20px;
+}
+#off{
+    text-align: center;
+    margin-top: 150px;
+    margin-bottom: 150px;
+    padding: 10px;
+    margin-left: 50px;
+    margin-right: 50px;
+    border: 1px solid white;
+    background-color: white;
+    transition: transform .2s;
+}
+#of:hover{
+    transform: scale(1.10);
+}
+#off:hover{
+    transform: scale(1.10);
+    border: 1px solid rgb(1, 63, 1);
+    background-color: rgb(1, 63, 1);
+    color: white;
+}
+#ru{
+    color: rgb(4, 95, 4);
+}
+#bg{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    letter-spacing: 3px;
+}
+
+#blo{
+    font-style: italic;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif; 
+}
+#sho{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 25px;
+   color: rgb(106, 160, 106);
+}
+#graph{
+      text-align: center;
+      font-style: italic;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px;
+    line-height: 30px;
+}
+#so{
+    text-align: center;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif; 
+    font-size: 20px;
+    line-height: 30px;
+    transition: .2s;
+    color: rgb(1, 63, 1);
+}
+#so:hover{
+    transform: scale(1.10);
+    border: 1px solid rgb(1, 63, 1);
+    background-color: rgb(1, 63, 1);
+    color: white;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+#news{
+    background-color:rgb(89, 139, 89);
+    padding: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+    margin: 3px;
+}
+#butt{
+    color: white;
+    background-color: black;
+    padding: 9px;
+    margin-top: 20px;
+    transition: transform .2s;
+
+}
+#butt:hover{
+    transform: scale(1.10);
+}
+.fic{
+    text-decoration: none;
+    color: rgb(1, 63, 1);
+    padding-left: 10px;
+    padding-right: 10px;
+    margin: 5px;
+    border: 1px solid;
+    border-radius: 80%;
+}
+footer{
+    background-color: rgb(216, 213, 213);
+    padding-top: 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+
+   
+}
